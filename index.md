@@ -2,6 +2,61 @@
 layout: default
 ---
 
+On 23rd of June 2016, UK voted in a referendum. One of the campaign
+promises during that referendum was additional funding of the
+NHS. This promise has been broken, instead of an increase in NHS
+spending, it has significantly decreased. GBP exchange rate dropped,
+thus increasing significantly our current NHS costs; EU membership
+fees; purchasing power and spending money.
+
+During the campaign, it was stated that some people do not wish to pay
+for EU membership and would rather spend that money towards the
+NHS. I, on the other hand, am happy to pay for the EU membership. I am
+also happy to pay for another person who doesn't, and I am also happy
+to pay for NHS.
+
+The true cost of the EU membership has been overstated at the time. As
+per [Infacts](https://nationalhealthcoin.github.io/) the true cost of
+EU membership is 26p. There is no direct taxation in the UK, thus I
+cannot directly pay for the EU membership or directly contribute
+towards the NHS. However, I can donate to an NHS trust the equivalent
+amount of money.
+
+Therefore I am happy to:
+
+* donate 26p a day for my EU membership towards
+* donate 26p a day for a leave voter EU membership
+* donate 26p a day to simply fund NHS
+
+Last year I have donated towards SASH Charity, Guy's & St. Thomas'
+Charity, and Chelsea & Westminster Hospital. This year, I am donating
+just towards the Guy's & St. Thomas' hospital as they have taken care
+of me earlier this year when I walked in with Hepatitis A.
+
+However, I am hoping for a networking effect and encourage more people
+to donate towards Guy's & St. Thomas' hospital or any other NHS
+Foundation Trusts.
+
+How does this campaign affect government finances?  If you are UK tax
+payer, the Foundation trust will be able to claim 25p on the pound
+from the Government - in effect recouping the 20% base income tax
+rate. Therefore, donating with GiftAid forces the government to divert
+collected income tax towards the NHS. Furthermore, if you are a higher
+rate tax payer you can write a letter to HMRC with justgiving receipt
+to claim a further 20% income tax rebate, thus stretching every pound
+even further. By encouraging GiftAid donations and encouraging people
+to get income tax rebates I hope to have an impact on the government
+finances and an increase in NHS funding.
+
+Thanks for taking the time to visit my JustGiving page.
+
+Donating through JustGiving is simple, fast and totally secure. Your
+details are safe with JustGiving - they'll never sell them on or send
+unwanted emails. Once you donate, they'll send your money directly to
+the charity. So it's the most efficient way to donate - saving time
+and cutting costs for the charity.
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
